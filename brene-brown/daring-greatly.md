@@ -64,7 +64,7 @@ broken hallelujah. - _Leonard Cohen_
 
 - __MYTH #4: WE CAN GO IT ALONE__
 
-	- When we attach judgment to receiving help, we knowingly or unknowingly attach judgment to giving help (from Gifts of Imperfection).
+	- When we attach judgment to receiving help, we knowingly or unknowingly attach judgment to giving help (from _Gifts of Imperfection_).
 	
 	-  We simply can’t learn to be more vulnerable and courageous on our own. Sometimes our first and greatest dare is asking for support.
 
