@@ -26,7 +26,7 @@ exposure.__
 		
 		- Freedom and liberation.
 		
-		- Letting go of control. (Personal note - "Being comfortable with being uncomfortable," as [J Chachula](http://www.theflyingmachine.net/instructors.html) might put it.)
+		- Letting go of control. (Personal note - "It's not about being comfortable; it's about being comfortable with being uncomfortable," as my friend [J Chachula](http://www.theflyingmachine.net/instructors.html) might put it.)
 		
 	- And the answer that appeared over and over in all of our efforts to better understand vulnerability? Naked.
 		- Vulnerability is like being naked onstage and hoping for applause rather than laughter.
@@ -78,6 +78,8 @@ broken hallelujah. - _Leonard Cohen_
 	
 -  If they love it [your product/art/etc], you’re worthy; if they don’t, you’re worthless.
 
-- Expect to have to try and try again to get it right — be more willing to get innovative and creative in your efforts.
+- Expect to have to try and try again to get it right — to be more willing to get innovative and creative in your efforts.
 
 -  _Daring greatly_ requires worthiness. Shame sends the gremlins.
+
+
