@@ -74,7 +74,10 @@ broken hallelujah. - _Leonard Cohen_
 
 > Only when we’re brave enough to explore the darkness will we discover the infinite power of our light.
 	
+- In order to be vulnerable, we need to develop resilience to shame.
+	
+-  If they love it [your product/art/etc], you’re worthy; if they don’t, you’re worthless.
 
-	
-	
-	
+- Expect to have to try and try again to get it right — be more willing to get innovative and creative in your efforts.
+
+-  _Daring greatly_ requires worthiness. Shame sends the gremlins.
