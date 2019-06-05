@@ -1,4 +1,4 @@
-##### Notes related to Brene Brown's _Daring Greatly_
+### Notes related to Brene Brown's _Daring Greatly_
 
 - The 3 components of scarcity: __shame/comparison/disengagement__.
 
