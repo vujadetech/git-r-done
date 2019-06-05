@@ -68,6 +68,13 @@ broken hallelujah. - _Leonard Cohen_
 	
 	-  We simply can’t learn to be more vulnerable and courageous on our own. Sometimes our first and greatest dare is asking for support.
 
-#### UNDERSTANDING AND COMBATING SHAME (AKA, GREMLIN NINJA WARRIOR TRAINING)
+#### Chapter 3, UNDERSTANDING AND COMBATING SHAME (AKA, GREMLIN NINJA WARRIOR TRAINING)
 
+- Shame resilience is key to embracing our vulnerability. We can’t let ourselves be seen if we’re terrified by what people might think. Often ‘not being good at vulnerability’ means that we’re damn good at shame.
+
+> Only when we’re brave enough to explore the darkness will we discover the infinite power of our light.
+	
+
+	
+	
 	
