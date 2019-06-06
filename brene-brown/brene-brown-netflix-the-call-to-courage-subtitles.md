@@ -1,6 +1,14 @@
 #### Subtitles for Brene Brown's Netflix special _The Call to Courage_
 
+##### Hightlights 
 
+- The story I'm telling myself
+
+  > This is a magic sentence. It's a simple sentence.It's just the story I'm telling myself.
+
+- Gratitude
+
+  > The people who could really lean into joy,they didn't dress rehearse tragedy. They didn't practice the terrible things. They just leaned in. What do you think the one thing they share is? [man] Gratitude. Gratitude. Gratitude. They practiced gratitude.
 
 [presenter]She spent 20 years studying courage,
 vulnerability, shame, and empathy,
