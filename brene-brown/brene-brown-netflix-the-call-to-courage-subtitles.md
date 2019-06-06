@@ -1,6 +1,6 @@
 #### Subtitles for Brene Brown's Netflix special _The Call to Courage_
 
-##### Hightlights 
+##### Highlights 
 
 - The story I'm telling myself
 
