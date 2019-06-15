@@ -1,0 +1,1 @@
+- [The Free Lunch Is Over](http://www.gotw.ca/publications/concurrency-ddj.htm)
