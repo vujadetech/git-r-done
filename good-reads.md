@@ -6,11 +6,13 @@
 - [Calgary CPSC 617: _Category theory for CS_](http://pages.cpsc.ucalgary.ca/~robin/class/617/webnotes.html)
 
 
-#### Lambda calc and combinatory logic specific
+#### Lambda calc and combinatory logic
 - [SEP's Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 
 #### Type theory
 - [SEP's Type Theory](https://plato.stanford.edu/entries/type-theory/)
 - [SEP's Intuitionistic Type Theory](https://plato.stanford.edu/entries/type-theory-intuitionistic/)
 - [SEP's Church's Type Theory](https://plato.stanford.edu/entries/type-theory-church/)
+
+
 
