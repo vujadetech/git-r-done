@@ -1,1 +1,2 @@
 - [The Free Lunch Is Over](http://www.gotw.ca/publications/concurrency-ddj.htm)
+- [wikibook, Programming Languages/Semantics](https://en.wikibooks.org/wiki/Programming_Languages/Semantics_Specification)
