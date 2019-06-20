@@ -18,4 +18,4 @@
 
 #### OO isn't dead, [it's just resting](https://www.youtube.com/watch?v=vZw35VUBdzo&feature=youtu.be&t=1m17s)
 
-- [The Forgotten History of OOP](medium.com)
+- [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
