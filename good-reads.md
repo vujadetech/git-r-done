@@ -14,5 +14,8 @@
 - [SEP's Intuitionistic Type Theory](https://plato.stanford.edu/entries/type-theory-intuitionistic/)
 - [SEP's Church's Type Theory](https://plato.stanford.edu/entries/type-theory-church/)
 
+#### FP (functional programming)
 
+#### OO isn't dead, [it's just resting](https://www.youtube.com/watch?v=vZw35VUBdzo&feature=youtu.be&t=1m17s)
 
+- [The Forgotten History of OOP](medium.com)
