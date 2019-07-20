@@ -1,5 +1,6 @@
 #### Set file/dir (type f, type d) permissions recursively
 find . -type f -execdir chmod 644 {} +
+
 find . -type d -execdir chmod 755 {} +
 
 chown -R [USER]:[USER] [DIR]
